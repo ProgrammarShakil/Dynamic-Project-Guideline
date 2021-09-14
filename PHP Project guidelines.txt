@@ -1,0 +1,42 @@
+-- Your Benifits - You will be able to make a dynamic website as like ecommerce/news/blog website.
+
+0.0 what is dynamic/static website ?
+0.1 what's difference betwenn frontend / backend ?
+
+1. why need to learn make a dynamic website ?
+2. what is database / why we will use database ?
+3. How to make a dynamic website ?
+4. which feature present in a dynamic website? admin/controll panel + visitor page...
+5. why need to make admin panel ?
+6. why we will use php language ?
+7. how to make a dynamic website by using raw php ?
+
+8. which requirement to learn this website how to make ( for backend)?
+8.1 php basic (function/loop/variable etc....must know basic)...
+8.2  (php crud/mysql....not be must )...
+
+9. which requirement to learn this website how to make ( for frontend )?
+9.1 basic html/css/js/bootstrap(not must)
+
+10. How to start to make a dynamic php project ?
+- need a frontend or static website. 
+- need to templating html to php.
+- first need to make admin panel.
+- user (create/insert)/(read/show)/(update or edit)/delete
+- product create/read/update/delete
+
+10.1 Templating html to php.
+10.2 dynamic user login system with security...
+10.3 user (create/insert)/(read/show)/(update or edit)/delete + Pagination.
+10.4 Catagory (create/insert)/(read/show)/(update or edit)/delete + Pagination.
+10.5 Post/Product (create/insert)/(read/show)/(update or edit)/delete + Pagination.
+10.6 Post/Product show front page 
+10.7 single page show dynamically.
+10.8 show dynamic navbar.
+10.9 show catagory wise post.
+10.10 show author wise post
+10.11 how to make search features
+10.12 recent post show from database.
+
+
+
